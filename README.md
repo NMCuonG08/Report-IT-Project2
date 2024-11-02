@@ -20,7 +20,7 @@ query = "`Quy chế đào tạo Trường Đại học Sư phạm Kỹ thuật T
 
 ![image](https://github.com/user-attachments/assets/f2bf1704-6526-4b61-94c2-8d1832d1dd91)
 
-
+# Kết quả lấy từ retriever.
 
 ## :rocket:  qwen2
           
@@ -28,7 +28,8 @@ Use a `multi-page PDF` and a query related to multiple pages.
 
 query = "`Quy chế đào tạo Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh`"
 
-![image](https://github.com/user-attachments/assets/1ce980b6-8983-4c65-a8bc-182232c56ec6)
+![image](https://github.com/user-attachments/assets/1871f4bb-8e8f-4d12-b04a-08cac66cbcc6)
+
 
 ## :rocket:  mxbai-embed-large
 
