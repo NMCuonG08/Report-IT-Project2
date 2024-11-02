@@ -28,23 +28,26 @@ Use a `multi-page PDF` and a query related to multiple pages.
 
 query = "`Quy chế đào tạo Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh`"
 
-![image](https://github.com/user-attachments/assets/1871f4bb-8e8f-4d12-b04a-08cac66cbcc6)
+![image](https://github.com/user-attachments/assets/d63855fb-9e58-48a8-9f3e-d5f2ea025ef9)
+
 
 
 ## :rocket:  mxbai-embed-large
 
-![image](https://github.com/user-attachments/assets/e6ea735f-6691-4c93-9533-ed2701e7b32a)
+![image](https://github.com/user-attachments/assets/0a20ad88-5e35-487e-a82e-a623606c5782)
 
 
 
 ## :rocket:  Model: jina/jina-embeddings-v2-base-en
 
-![image](https://github.com/user-attachments/assets/4722fde2-e104-4fb6-92b8-c3cacc77f141)
+![image](https://github.com/user-attachments/assets/e8ad7876-def6-4403-a828-bc1a887334a4)
+
 
 
 
 ## :rocket:  Model:  nomic-embed-text
 
-![image](https://github.com/user-attachments/assets/6833063a-d2aa-45bb-aa84-51d62a80b85f)
+![image](https://github.com/user-attachments/assets/3c31f2e5-613e-4b3c-bb53-97c4b5f4a015)
+
 
 
