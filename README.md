@@ -67,3 +67,16 @@ query = "`Quy chế đào tạo Trường Đại học Sư phạm Kỹ thuật T
 
 ` Xếp hạng:`   jina/jina-embeddings-v2-base-en  >  nomic-embed-text  >  mxbai-embed-large  >  qwen2
 
+` Đánh giá `: 
+
+>  Sét về tổng quan thì khi thực hiện bằng code thông thường sẽ đưa ra các giá trị `Cosine Similarity` với trang có điểm cao nhất sẽ cao hơn một chút so với khi thực hiện lấy kết quả lấy từ retriever và sẽ là cùng trang. Nhưng từ các trang có số điểm từ thứ 2 trở đi sẽ có xu hướng khá là khác nhau khi nó chỉ chênh lệnh với nhau môt vài phần trăm điểm.
+
+> Sự khác biệt nhỏ trong Cosine Similarity giữa các trang kế tiếp có thể tạo ra sự không đồng nhất trong thứ hạng. Điều này có nghĩa là retriever và code thông thường có thể nhạy cảm với những thay đổi nhỏ trong ngữ cảnh hoặc cấu trúc của các trang, dẫn đến kết quả không giống nhau ở các vị trí không phải là cao nhất.
+
+
+
+
+
+
+
+
