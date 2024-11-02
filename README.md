@@ -20,6 +20,19 @@ query = "`Quy chế đào tạo Trường Đại học Sư phạm Kỹ thuật T
 
 ![image](https://github.com/user-attachments/assets/f2bf1704-6526-4b61-94c2-8d1832d1dd91)
 
+` Xếp hạng:`   jina/jina-embeddings-v2-base-en  >  nomic-embed-text  >  mxbai-embed-large  >  qwen2
+
+
+`Đánh giá :` 
+> jina/jina-embeddings-v2-base-en: Mô hình chủ yếu tập trung vào tạo embeddings cho văn bản nên có chất lượng rất cao  .
+> 
+> nomic-embed-text: Mô hình này có chất lượng khá cao. Chất lượng có thể phụ thuộc vào loại dữ liệu mà nó đã được huấn luyện.
+> 
+>  mxbai-embed-large: Mô hình này  được sử dụng cho các tác vụ cần độ chính xác cao. Chất lượng của nó có thể cao hơn nếu được huấn luyện trên tập dữ liệu phong phú.
+> 
+>  qwen2: Đây là mô hình mới nên chất lượng chưa được tốt lắm . 
+
+
 # Kết quả lấy từ retriever.
 
 ## :rocket:  qwen2
@@ -52,5 +65,5 @@ query = "`Quy chế đào tạo Trường Đại học Sư phạm Kỹ thuật T
 ![image](https://github.com/user-attachments/assets/58214151-0149-4ad3-9789-3f31f02b5638)
 
 
-
+` Xếp hạng:`   jina/jina-embeddings-v2-base-en  >  nomic-embed-text  >  mxbai-embed-large  >  qwen2
 
